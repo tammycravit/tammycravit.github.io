@@ -10,6 +10,9 @@ The principles and tools of DevOps – automation, repeatability, definable and 
 
 In my day job, I help tend and manage a large and complex database environment for a SaaS company in the health and wellness space. When your work includes juggling tens of thousands of databases, dozens of servers, and a rich mix of technologies (Microsoft SQL Server, NoSQL, Hadoop, and more), DevOps is the only way to get things done – at least, if you want them done right, and if you want to keep your sanity.
 
+In addition to the technical stuff, I'm also all about the other facet of
+DevOps: people and process and collaboration. As a woman in in an engineering leadership role, my style of work is necessarily collaborative: I'll never be the "alpha male geek", so my style of leadership is all about relationship building. These facets of leadership are an intense area of interest.
+
 My life outside of work includes bicycling, yoga, writing (and reading) and backpacking with friends. And, of course, playing around with interesting technologies and tools, because that’s how tech women roll. Right now I’m excited about SQL Server, Powershell, NoSQL, Hadoop, DevOps, and data visualization.
 
 ### Contact me
