@@ -6,7 +6,7 @@ tags:       [women, geek-feminism]
 ---
 I was having a conversation recently with a male engineer of my acquaintence.We were talking about a group I helped start at work for women in Development and Engineering. I explained why we'd started the group, what we hoped to accomplish, and why we felt having that space was important. 
 
-I shared some of the experiences I've had throughout my career: times I had my opinion ignored because I was female. Even when I was the decision-maker. Times I was dismissed and talked over in meetings. The time a job candidate called me a "f**king bitch" for daring to communicate that I knew he was giving me a BS answer to a question. The times I've been sexually harassed in the workplace.
+I shared some of the experiences I've had throughout my career: times I had my opinion ignored because I was female. Even when I was the decision-maker. Times I was dismissed and talked over in meetings. The time a job candidate called me a "f--king b-tch" for daring to communicate that I knew he was giving me a BS answer to a question. The times I've been sexually harassed in the workplace.
 
 He nodded attentively. I thought he was starting to see my point. Then he looked at me and said, "Surely this can't be that much of a problem anymore, though. I mean, I've never seen people behave that way."
 
