@@ -1,18 +1,26 @@
 - slug: sql-server
   name: SQL Server
+
 - slug: women
   name: Women
+
 - slug: geek-feminism
   name: Geek Feminism
+
 - slug: powershell
   name: Powershell
+
 - slug: big-data
   name: Big Data
+
 - slug: nosql
   name: NoSQL
+
 - slug: visualization
   name: Visualization
+
 - slug: leadership
   name: Leadership
+
 - slug: devops
   name: DevOps
