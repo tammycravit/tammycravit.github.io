@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      SQL Server Lifesavers: The Dedicated Administrator Connection
+title:      SQL Server Lifesavers - The Dedicated Administrator Connection
 date:       2015-09-02
 tags:       [sqlserver, dac, troubleshooting]
 ---
