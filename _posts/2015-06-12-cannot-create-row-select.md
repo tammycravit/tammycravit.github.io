@@ -2,7 +2,7 @@
 layout:     post
 title:      “Cannot create a row” Error From a SELECT Query
 date:       2015-06-10 12:31:19
-categories: sql-server
+tags:       [sqlserver]
 ---
 Rather than doing the obligatory “hi, this is me, welcome to my blog” post, I thought I’d start things off here with a quick post about an interesting problem I heard from a developer the other week. The actual problem was pretty logical, once I figured out what was going on, but it wasn’t totally obvious at first.
 
